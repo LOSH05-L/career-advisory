@@ -1,5 +1,0 @@
-streamlit
-google-cloud-aiplatform
-google-cloud-translate
-pandas
-requests
